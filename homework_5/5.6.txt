@@ -1,0 +1,3 @@
+mathematics: 126(lec) 54(pr) 23(lab)
+literature: 45(lec) 18(pr)
+computer_science: 24(l) 43(lab)
